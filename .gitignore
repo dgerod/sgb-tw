@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+docs/.keep
+templates/.keep
+tmp/.keep
+db/tiddlers/.keep
+
