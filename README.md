@@ -1,6 +1,18 @@
 SGB-TW 
 =====================
 
+## What is this?
+
+Simple tool that helps you to write your Software Guidebook using wiki syntax, 
+PlantUML, etc. and TiddlyWiki as GUI 
+
+## What is a Software Guide-Book (SGB)?
+
+It is a document describes the software architecture and high-level design of a system. 
+In addition to that, the document contains maps, sight and itineraries, history and culture 
+and practical information about the software; it describes what the code does not. And it 
+is an alive and evolve document. 
+
 ## Installation
 
 1. Create a Python virtual environment. 
