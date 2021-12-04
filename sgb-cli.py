@@ -1,5 +1,3 @@
-# %%
-
 from scripts import add_package_to_path
 add_package_to_path()
 
