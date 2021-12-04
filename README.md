@@ -66,6 +66,6 @@ $ python sgb-cli.py save_tiddlers
 $ git push
 ````
 
-In case that there is a conflict in git, you should do load the tiddlers to the 
+In case that there is a conflict in git, you should load the tiddlers to the 
 TiddlyWiki HTML file after solving it.
 
